@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "8c626fdef3e6c3248e4a2cea1c5b2b15",
-"assets/AssetManifest.bin.json": "f747446be1c15f62cab10879b534c3cc",
-"assets/AssetManifest.json": "df3feb97aa4c2342ef5919457011b6d2",
+const RESOURCES = {"assets/AssetManifest.bin": "b42c55631269f1943232581ed36dcd36",
+"assets/AssetManifest.bin.json": "dc72feccaa899d463d1045f624c10236",
+"assets/AssetManifest.json": "8bfcc55203b4905a140c9c1503ce3c77",
+"assets/assets/dd.jpg": "9ffa3207589415b26a2e061bc9431e2f",
 "assets/assets/email_button.png": "570ed02e1d63b3a8ac44ed66ecf9c1b8",
 "assets/assets/phone_button.png": "b3b574e7bea56a4c482b5be051e9bff2",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -27,7 +28,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8c626fdef3e6c3248e4a2cea1c5b2b15
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "6c1bfc1ac0256d4158b2ea0255b1d1d0",
+"flutter_bootstrap.js": "8331ad023777b9bbc1867005352294b8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
